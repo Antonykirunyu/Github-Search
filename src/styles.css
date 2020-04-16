@@ -1,1 +1,49 @@
 /* You can add global styles to this file, and also import other style files */
+.container{
+    text-align: center;
+    font-size: 19px;
+    border-style: groove;
+    border-style: ridge;
+}
+body{
+    background-color:transparent;
+}
+.person{
+    margin-top: 3%;
+}
+h1{
+    border-style: groove;
+    color: darkblue;
+    text-decoration: underline;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+.card{
+    margin-top: 4%;
+}
+h5{
+    text-decoration: underline;
+    font-size: 20px;
+    color: darkblue;
+}
+.row{
+    display: flex;
+    font-size: 20px;
+    padding: 5%;
+}
+.list-group{
+    margin-top: 0%;
+    margin-left: 10%;
+}
+span{
+    justify-content: space-evenly;
+}
+.repos{
+    text-align: center;
+    font-size: 25px;
+}
+.portfolio{
+    font-size: 20px;
+    margin-bottom: opx;
+}
